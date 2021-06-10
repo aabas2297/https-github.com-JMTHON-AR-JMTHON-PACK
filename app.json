@@ -36,27 +36,12 @@
       "value": ""
     },
     "TG_BOT_TOKEN": {
-      "description": " توكن البوت - يجب وضع البوت انلاين مود",
+      "description": "توكن البوت - يجب وضع البوت انلاين",
       "value": ""
-    },
-    "PMPERMIT_PIC": {
-      "description": "صوره ",
-      "value": "",
-      "required": false
     },
     "COMMAND_HAND_LER": {
       "description": "اتركها كما هيه",
       "value": ".",
-      "required": false
-    },
-    "PRIVATE_GROUP_ID": {
-      "description": "الكروب ",
-      "value": "",
-      "required": false
-    },
-    "PRIVATE_GROUP_BOT_API_ID": {
-      "description": "ايدي الكروب ",
-      "value": "",
       "required": false
     },
 
@@ -77,7 +62,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس",
-      "value": "Jmthon-iq ",
+      "value": "Jmthon-iq",
       "required": false
     }
   },
