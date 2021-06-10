@@ -1,6 +1,6 @@
 {
   "name": "JMTHON",
-  "description": "Welcome to Arab Telethon Source Arabic - @JMTHON",
+  "description": "Welcome to  Arabic USERBOT - @JMTHON",
   "logo": "",
   "keywords": [
     "plugin",
@@ -61,7 +61,7 @@
       "required": false
     },
     "UPSTREAM_REPO": {
-      "description": "Use either goodcat or badcat .if you need custom deploy then type your git repo link",
+      "description": "رمز السورس اذا تغيره البوت ميتنصب",
       "value": "Jmthon-iq",
       "required": false
     }
