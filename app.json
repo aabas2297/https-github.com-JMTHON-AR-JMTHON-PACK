@@ -1,6 +1,6 @@
 {
-  "name": "JMTHON",
-  "description": "Welcome to  Arabic USERBOT - @JMTHON",
+  "name": "JMTHON - USERBOT",
+  "description": "Arabic Userbot - @JMTHON ",
   "logo": "",
   "keywords": [
     "plugin",
@@ -12,57 +12,72 @@
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "ضع هنا اسمك",
+      "description": "ادخل اسمك هنا",
       "value": ""
     },
     "APP_ID": {
-      "description": "اكتب هنا الايبي ايدي",
+      "description": "ايبي ايدي",
       "value": ""
     },
     "API_HASH": {
-      "description": "اكتب هنا ألايبي هاش",
+      "description": "ايبي هاش",
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "ضع هنا كود تيرمكس",
+      "description": "كود التيرمكس",
       "value": ""
     },
+    "ENV": {
+      "description": "لتغير بيها شي",
+      "value": "ANYTHING"
+    },
     "TG_BOT_USERNAME": {
-      "description": "ضع هنا معرف البوت بدون @",
+      "description": "معرف البوت",
       "value": ""
     },
     "TG_BOT_TOKEN": {
-      "description": "ضع هنا توكن البوت الخاص بك",
+      "description": " توكن البوت - يجب وضع البوت انلاين مود",
       "value": ""
     },
+    "PMPERMIT_PIC": {
+      "description": "صوره ",
+      "value": "",
+      "required": false
+    },
     "COMMAND_HAND_LER": {
-      "description": "أتركة كما هوة",
+      "description": "اتركها كما هيه",
       "value": ".",
       "required": false
     },
-    "ENV": {
-      "description": "أتركة كما هوة",
-      "value": "ANYTHING",
+    "PRIVATE_GROUP_ID": {
+      "description": "الكروب ",
+      "value": "",
       "required": false
     },
+    "PRIVATE_GROUP_BOT_API_ID": {
+      "description": "ايدي الكروب ",
+      "value": "",
+      "required": false
+    },
+
     "HEROKU_API_KEY": {
-      "description": "أتركة فارغ",
+      "description": "هيروكو ابي كي من الاعدادات عن طريق الرابط https://dashboard.heroku.com/account",
       "value": "",
       "required": false
     },
     "HEROKU_APP_NAME": {
-      "description": "أتركة فارغ",
+      "description": "اسم التطبيق ",
       "value": "",
       "required": false
     },
     "TZ": {
-      "description": "موقعك الحالي",
+      "description": "منطقتك ",
       "value": "Asia/Baghdad",
       "required": false
     },
     "UPSTREAM_REPO": {
-      "description": "رمز السورس اذا تغيره البوت ميتنصب",
-      "value": "Jmthon-iq",
+      "description": "رمز السورس",
+      "value": "Jmthon-iq ",
       "required": false
     }
   },
