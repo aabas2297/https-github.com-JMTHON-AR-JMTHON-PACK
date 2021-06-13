@@ -1,7 +1,7 @@
 {
   "name": "JMTHON - USERBOT",
   "description": "Arabic Userbot - @JMTHON ",
-  "logo": "",
+  "logo": "https://telegra.ph/file/6cd59ba38a12ec9595cd9.jpg",
   "keywords": [
     "plugin",
     "modular",
@@ -32,7 +32,7 @@
       "value": "ANYTHING"
     },
     "TG_BOT_USERNAME": {
-      "description": "معرف البوت",
+      "description": "معرف البوت بدون @",
       "value": ""
     },
     "TG_BOT_TOKEN": {
