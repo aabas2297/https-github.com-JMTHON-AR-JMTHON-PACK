@@ -55,6 +55,11 @@
       "value": "",
       "required": false
     },
+    "DEFAULT_PIC": {
+      "description": "  رابط صورة حسابك من تلكراف علمود امر الصورة الوقتية",
+      "value": "",
+      "required": false
+      },
     "TZ": {
       "description": "منطقتك ",
       "value": "Asia/Baghdad",
