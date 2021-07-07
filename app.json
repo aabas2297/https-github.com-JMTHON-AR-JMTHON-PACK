@@ -55,8 +55,13 @@
       "value": "",
       "required": false
     },
-    "DEFAULT_PIC": {
-      "description": "  رابط صورة حسابك من تلكراف علمود امر الصورة الوقتية",
+    "DEFAULT_BIO": {
+      "description": "هنا خلي نبذتك حسابك الي تكلع وي البايو الوقتي ",
+      "value": "",
+      "required": false
+      },
+     "AUTONAME": {
+      "description": "اسم حسابك هنا ",
       "value": "",
       "required": false
       },
