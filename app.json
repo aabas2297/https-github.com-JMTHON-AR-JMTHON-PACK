@@ -56,7 +56,7 @@
       "required": false
     },
     "DEFAULT_BIO": {
-      "description": "هنا خلي نبذتك حسابك الي تكلع وي البايو الوقتي ",
+      "description": "هنا خلي نبذتك حسابك الي تطلع وي البايو الوقتي ",
       "value": "",
       "required": false
       },
