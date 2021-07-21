@@ -1,57 +1,57 @@
 {
-  "name": "بـوت جـمثون",
-  "description": "بـوت جمـثون بسيط وسهل يعتمد على سطح مكتبة التيليثون ",
-  "logo": "https://telegra.ph/file/e39d02603863669b09c4d.jpg",
+  "name": "JMTHON - USERBOT",
+  "description": "Arabic Userbot - @JMTHON ",
+  "logo": "https://telegra.ph/file/6cd59ba38a12ec9595cd9.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/JMTHON-AR/JMTHON-PACK",
+  "repository": "https://github.com/JMTHON-AR/JMTHON-PACK/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "هـنا ضع اسم حسابك الخاص بالتلي",
+      "description": "ادخل اسمك هنا",
       "value": ""
     },
     "APP_ID": {
-      "description": "هـنا ضع ايبي ايدي احصل عليه من  :  my.telegram.org",
+      "description": "ايبي ايدي",
       "value": ""
     },
     "API_HASH": {
-      "description": "هـنا ضع ايبي هاش احصل عليه من my.telegram.org",
+      "description": "ايبي هاش",
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "هـنا ضع كـود تيرمكس ",
+      "description": "كود التيرمكس",
       "value": ""
     },
+    "ENV": {
+      "description": "لتغير بيها شي",
+      "value": "ANYTHING"
+    },
     "TG_BOT_USERNAME": {
-      "description": "هنـا ضع معرف بوت التلي الخاص بك بدون ",
+      "description": "معرف البوت بدون @",
       "value": ""
     },
     "TG_BOT_TOKEN": {
-      "description": "هنـا ضع توكن بوتك .",
+      "description": "توكن البوت - يجب وضع البوت انلاين",
       "value": ""
     },
     "COMMAND_HAND_LER": {
-      "description": "لا تغيـرها ابدا",
+      "description": "اتركها كما هيه",
       "value": ".",
       "required": false
     },
-    "ENV": {
-      "description": "لا تغيـرها ابدا.",
-      "value": "ANYTHING",
-      "required": false
-    },
+
     "HEROKU_API_KEY": {
-      "description": "ايبـي هيروكو احصل عليه من هذا الرابط مطلوبة ! https://dashboard.heroku.com/account",
+      "description": "هيروكو ابي كي من الاعدادات عن طريق الرابط https://dashboard.heroku.com/account",
       "value": "",
       "required": false
     },
     "HEROKU_APP_NAME": {
-      "description": "اسم التطبيق اول اسم خليته ",
+      "description": "اسم التطبيق ",
       "value": "",
       "required": false
     },
@@ -60,14 +60,23 @@
       "value": "",
       "required": false
       },
-      
+     "AUTONAME": {
+      "description": "اسم حسابك هنا ",
+      "value": "",
+      "required": false
+      },
+      "DIGITAL_PIC": {
+      "description": "  صورة حسابك من تلكراف لأمر الصورة الوقتية ",
+      "value": "",
+      "required": false
+      },
     "TZ": {
-      "description": "هنـا ضع الوقت الزمني الخاص بك  احصل عليه من  http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
+      "description": "منطقتك ",
       "value": "Asia/Baghdad",
       "required": false
     },
     "UPSTREAM_REPO": {
-      "description": "لا تغيـرها ابدا",
+      "description": "رمز السورس",
       "value": "Jmthon-iq",
       "required": false
     }
