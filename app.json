@@ -59,8 +59,32 @@
       "description": "هنا خلي نبذتك حسابك الي تطلع وي البايو الوقتي ",
       "value": "",
       "required": false
-      },
-      
+    },
+     "MAX_FLOOD_IN_PMS": {
+      "description": "اكتب هـنا عدد تحـذيرات لامر الحماية يفضل اقل من 7 ",
+      "value": "",
+      "required": false
+    },
+    "PM_LOGGER_GROUP_ID": {
+      "description": " هـنا ضع ايدي الـكروب لتخزين الرسائل ",
+      "value": "",
+      "required": false
+    },
+    "PRIVATE_GROUP_BOT_API_ID": {
+      "description": "نفس ايدي الكروب الي وضعته فوق",
+      "value": "",
+      "required": false
+    },
+    "PM_PIC": {
+      "description": "هنا ضع رابط صورة الحماية من تلكراف",
+      "value": "",
+      "required": false
+    },
+    "DIGITAL_PIC": {
+      "description": "هنا ضع رابط صورة امر الصورة الوقتية من تلكراف",
+      "value": "",
+      "required": false
+    },
     "TZ": {
       "description": "هنـا ضع الوقت الزمني الخاص بك  احصل عليه من  http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
       "value": "Asia/Baghdad",
