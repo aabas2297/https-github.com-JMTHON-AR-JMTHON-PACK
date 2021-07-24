@@ -58,11 +58,6 @@
       "value": "",
       "required": false
     },
-     "MAX_FLOOD_IN_PMS": {
-      "description": "اكتب هـنا عدد تحـذيرات لامر الحماية يفضل اقل من 7 ",
-      "value": "",
-      "required": false
-    },
     "PM_LOGGER_GROUP_ID": {
       "description": " هـنا ضع ايدي الـكروب لتخزين الرسائل ",
       "value": "",
