@@ -47,13 +47,11 @@
     },
     "HEROKU_API_KEY": {
       "description": "ايبـي هيروكو احصل عليه من هذا الرابط مطلوبة ! https://dashboard.heroku.com/account",
-      "value": "",
-      "required": false
+      "value": ""
     },
     "HEROKU_APP_NAME": {
       "description": "اسم التطبيق اول اسم خليته ",
-      "value": "",
-      "required": false
+      "value": ""
     },
     "DEFAULT_BIO": {
       "description": "هنا خلي نبذتك حسابك الي تطلع وي البايو الوقتي ",
