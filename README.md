@@ -7,20 +7,13 @@
 ![Repo Size](https://img.shields.io/github/repo-size/JMTHON-AR/JM-THON?&style=flat-square&logo=github)
 
 
-#كود تيرمكس 🖱
-### استخراج كود تيرمكس 
+### استخراج كود تيرمكس  ##
 [![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@JMTHONAR/stringsession)
 - احصل على الايبي هاش والايبي ايدي من  [هـنا](https://my.telegram.org/)    
 
-### التنصيب عبر هيروكو
+### التنصيب عبر هيروكو ##
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JMTHON-AR/JMTHON-PACK)
 
-# الـحقوق محـفوظـة 📋
-[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
-
-* Copyright (C) 2020-2021 by T.ME/JMTHON < https://github.com/JMTHON-AR >.
-
-
-## الـقـناة
+## الـقـناة ##
    <a href="https://t.me/JMTHON"><img src="https://img.shields.io/badge/Source%20Dev%3F-here-inactive?&style=plastic?&logo=telegram" width=220px></a></p>
  - 
