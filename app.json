@@ -79,7 +79,7 @@
       "required": false
     },
     "TZ": {
-      "description": "هنـا ضع الوقت الزمني الخاص بك  احصل عليه من  http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
+      "description": "هنـا ضع المنطقه الزمنية الخاص بك  احصل عليه من  http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
       "value": "Asia/Baghdad",
       "required": false
     },
