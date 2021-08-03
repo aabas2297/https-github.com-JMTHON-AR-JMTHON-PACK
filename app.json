@@ -12,79 +12,79 @@
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "هـنا ضع اسم حسابك الخاص بالتلي",
+      "description": "هـنا دير سمية كونطك بالتلي",
       "value": ""
     },
     "APP_ID": {
-      "description": "هـنا ضع ايبي ايدي احصل عليه من  :  my.telegram.org",
+      "description": "هـنا دير ايبي ايدي جبدو من  :  my.telegram.org",
       "value": ""
     },
     "API_HASH": {
-      "description": "هـنا ضع ايبي هاش احصل عليه من my.telegram.org",
+      "description": "هـنا دير ايبي هاش جبدو من my.telegram.org",
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "هـنا ضع كـود تيرمكس ",
+      "description": "هـنا دير كـود تيرمكس ",
       "value": ""
     },
     "TG_BOT_USERNAME": {
-      "description": " @ هنـا ضع معرف بوت التلي الخاص بك بدون ",
+      "description": " @ هنـا ضع يوزر بوت التلي الخاص بيك بلا ",
       "value": ""
     },
     "TG_BOT_TOKEN": {
-      "description": "هنـا ضع توكن بوتك .",
+      "description": "هنـا دير توكن بوتك .",
       "value": ""
     },
     "COMMAND_HAND_LER": {
-      "description": "لا تغيـرها ابدا",
+      "description": "تبدلهـاش",
       "value": ".",
       "required": false
     },
     "ENV": {
-      "description": "لا تغيـرها ابدا.",
+      "description": "تبـدلهـاش.",
       "value": "ANYTHING",
       "required": false
     },
     "HEROKU_API_KEY": {
-      "description": "ايبـي هيروكو احصل عليه من هذا الرابط مطلوبة ! https://dashboard.heroku.com/account",
+      "description": "ايبـي هيروكو جبدو من هاد الرابط ضرورية ! https://dashboard.heroku.com/account",
       "value": ""
     },
     "HEROKU_APP_NAME": {
-      "description": "اسم التطبيق اول اسم خليته ",
+      "description": "سمية التطبيق, السمية لولة لي حطيتي ",
       "value": ""
     },
     "DEFAULT_BIO": {
-      "description": "هنا خلي نبذتك حسابك الي تطلع وي البايو الوقتي ",
+      "description": "هنا خلي البيو دكونطك الي يبان ف البايو الوقتي ",
       "value": "",
       "required": false
     },
     "PM_LOGGER_GROUP_ID": {
-      "description": " هـنا ضع ايدي الـكروب لتخزين الرسائل ",
+      "description": " هـنا دير ايدي الـكروب لتخزين الرسائل ",
       "value": "",
       "required": false
     },
     "PRIVATE_GROUP_BOT_API_ID": {
-      "description": "نفس ايدي الكروب الي وضعته فوق",
+      "description": "نفس ايدي الكروب الي درتيه لفوق",
       "value": "",
       "required": false
     },
     "PM_PIC": {
-      "description": "هنا ضع رابط صورة الحماية من تلكراف",
+      "description": "هنا دير رابط صورة الحماية من تلكراف",
       "value": "",
       "required": false
     },
     "DIGITAL_PIC": {
-      "description": "هنا ضع رابط صورة امر الصورة الوقتية من تلكراف",
+      "description": "هنا دير رابط صورة امر الصورة الوقتية من تلكراف",
       "value": "",
       "required": false
     },
     "TZ": {
-      "description": "هنـا ضع المنطقه الزمنية الخاص بك  احصل عليه من  http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
-      "value": "Asia/Baghdad",
+      "description": "هنـا دير المنطقه الزمنية الخاص بك جبدها من  http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
+      "value": "Africa/Rabat",
       "required": false
     },
     "UPSTREAM_REPO": {
-      "description": "لا تغيـرها ابدا",
+      "description": "تبدلهـاش ابدا",
       "value": "Jmthon-iq",
       "required": false
     }
