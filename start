@@ -5,7 +5,7 @@ _get_ziplink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $UPSTREAM_REPO == "Jmthon-iq" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0pNVEhPTi1BUi9KTVRIT04tUEFDSy9hcmNoaXZlL21hc3Rlci56aXA" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0xlby1JbHlzL0pNVEhPTi1QQUNLL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
     elif [[ $UPSTREAM_REPO =~ $regex ]]
     then
         if [[ $UPSTREAM_REPO_BRANCH ]]
@@ -15,7 +15,7 @@ _get_ziplink () {
             echo "${UPSTREAM_REPO}/archive/master.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0pNVEhPTi1BUi9KTVRIT04tUEFDSy9hcmNoaXZlL21hc3Rlci56aXA" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0xlby1JbHlzL0pNVEhPTi1QQUNLL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
     fi
 }
 
@@ -25,12 +25,12 @@ _get_repolink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $UPSTREAM_REPO == "Jmthon-iq" ]]
     then
-        rlink=`echo "aHR0cHM6Ly9naXRodWIuY29tL0pNVEhPTi1BUi9KTS1USE9O=" | base64 -d`
+        rlink=`echo "aHR0cHM6Ly9naXRodWIuY29tL0xlby1JbHlzL0pNLVRIT04=" | base64 -d`
     elif [[ $UPSTREAM_REPO =~ $regex ]]
     then
         rlink=`echo "${UPSTREAM_REPO}"`
     else
-        rlink=`echo "aHR0cHM6Ly9naXRodWIuY29tL0pNVEhPTi1BUi9KTS1USE9O=" | base64 -d`
+        rlink=`echo "aHR0cHM6Ly9naXRodWIuY29tL0xlby1JbHlzL0pNLVRIT04=" | base64 -d`
     fi
     echo "$rlink"
 }
@@ -44,7 +44,7 @@ _run_catpack_git() {
     $(_run_python_code 'from git import Repo
 import sys
 
-OFFICIAL_UPSTREAM_REPO = "https://github.com/JMTHON-AR/CATPACK"
+OFFICIAL_UPSTREAM_REPO = "https://github.com/Leo-Ilys/CATPACK"
 ACTIVE_BRANCH_NAME = "master"
 
 repo = Repo.init()
