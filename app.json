@@ -58,21 +58,6 @@
       "value": "",
       "required": false
     },
-    "PM_LOGGER_GROUP_ID": {
-      "description": " هـنا ضع ايدي الـكروب لتخزين الرسائل ",
-      "value": "",
-      "required": false
-    },
-    "PRIVATE_GROUP_BOT_API_ID": {
-      "description": "نفس ايدي الكروب الي وضعته فوق",
-      "value": "",
-      "required": false
-    },
-    "PM_PIC": {
-      "description": "هنا ضع رابط صورة الحماية من تلكراف",
-      "value": "",
-      "required": false
-    },
     "DIGITAL_PIC": {
       "description": "هنا ضع رابط صورة امر الصورة الوقتية من تلكراف",
       "value": "",
