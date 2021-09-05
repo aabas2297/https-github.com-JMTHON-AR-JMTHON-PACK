@@ -58,11 +58,6 @@
       "value": "",
       "required": false
     },
-    "DIGITAL_PIC": {
-      "description": "هنا ضع رابط صورة امر الصورة الوقتية من تلكراف",
-      "value": "",
-      "required": false
-    },
     "TZ": {
       "description": "هنـا ضع المنطقه الزمنية الخاص بك  احصل عليه من  http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
       "value": "Asia/Baghdad",
